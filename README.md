@@ -1,4 +1,4 @@
-# MLL Film
+# Movie Audience Linked List
 
 A C++ console app for managing movies and their audiences, built with a Multi-Linked List. This was my final project for a data structures course.
 
